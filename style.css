@@ -1,0 +1,19 @@
+/* #btn {
+    color: black;
+    background-color: yellow;
+}
+
+.button1{
+    align-self: center;
+} */
+
+.dark{
+    background-color: black;
+    color: white;
+}
+
+.light{
+
+    background-color: white;
+    color: black;
+}
